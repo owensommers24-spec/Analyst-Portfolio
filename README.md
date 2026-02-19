@@ -29,11 +29,14 @@ complex data into actionable insights that drive business performance.
 ### Analyzing International Debt
 **Tools:** SQL, Data Cleaning, Aggregation  
 **Objective:** Analyze trends in video game production, sales, and user reviews over 20 years.  
+
 **Key Insights:**
 - Identified peak release years
 - Determined top-performing genres
 - Analyzed correlation between review scores and sales
--📄 [View Full Report](datalab-international-debt.pdf)
+
+
+📄 [View Full Report](datalab-international-debt.pdf)
 
 
 ### Golden Era of video Games
