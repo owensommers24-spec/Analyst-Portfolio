@@ -40,7 +40,7 @@ complex data into actionable insights that drive business performance.
 📄 [View Full Report](datalab-video-games.pdf)
 
 ## Contact
-LinkedIn:[(https://www.linkedin.com/in/owendsommers/)] 
-Email: owen.sommers24@gmail.com
+[LinkedIn](https://www.linkedin.com/in/owendsommers/) 
+[Email](owen.sommers24@gmail.com)
 
 
