@@ -16,7 +16,7 @@
   
 # Projects
 ### Golden Era of Video Games
-[Publication](C:\Users\osommers\OneDrive - Trintech Inc\Desktop\DataLab _ AI-powered data notebook for all skill levels.pdf)
+[Publication](./DataLab _ AI-powered data notebook for all skill levels.pdf)
 
 Analyzed a database containg four tables relate to video game creation usage, and reviews over a 20 year period to discover insights in the industry using **SQL**. 
 ### Analyzing International Debt
