@@ -29,9 +29,23 @@ complex data into actionable insights that drive business performance.
 -  SQL Associate (Datacamp) [Certification](SQL-Cert.pdf)
 -  Data Analyst Associate (Datacamp) [Certification](Data-Analyst-Associate.pdf)
 -  Data Literacy (Datacamp) [Certification](data-literacy-cert.pdf)
+
+# Data Visualization
+[Dashboard Preview](HR-DATA-Reference.png)
+[Dashboard Preview](SUPPORT-REF.png)
   
 # Projects
 ### Analyzing International Debt
+**Tools:** SQL, Data Cleaning, Aggregation  
+**Objective:** Analyze overall debt based on the current economic conditions and reports worldwide.  
+
+**Key Insights:**
+- Identified countries with high debt
+- Determined countries with low repayments
+📄 [View Full Report](datalab-international-debt.pdf)
+
+
+### Golden Era of video Games
 **Tools:** SQL, Data Cleaning, Aggregation  
 **Objective:** Analyze trends in video game production, sales, and user reviews over 20 years.  
 
@@ -39,12 +53,6 @@ complex data into actionable insights that drive business performance.
 - Identified peak release years
 - Determined top-performing genres
 - Analyzed correlation between review scores and sales
-
-
-📄 [View Full Report](datalab-international-debt.pdf)
-
-
-### Golden Era of video Games
 📄 [View Full Report](datalab-video-games.pdf)
 
 ## Contact
