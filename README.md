@@ -15,3 +15,6 @@
 - Developed, prepared and visualized data for analysis using Power BI, Salesforce, and Excel, leveraging insights to optimize digital advertising strategies and enhance campaign performance.
   
 # Projects
+### Golden Era of Video Games
+[notebook.ipynb](https://github.com/user-attachments/files/25425624/notebook.ipynb)
+
