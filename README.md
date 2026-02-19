@@ -16,9 +16,11 @@
   
 # Projects
 ### Golden Era of Video Games
-[Publication](https://www.datacamp.com/datalab/new?accountType=personal&_tag=workspace&workspaceId=5db220e6-ed13-43a8-9424-83e872ad8c62&title=Project%3A%20When%20Was%20the%20Golden%20Era%20of%20Video%20Games%3F%20%28copy%29&utmContent=copy_duplicate_link&utmMedium=in_product&utmSource=workspace&viewMode=edit&visibility=private)
+[Publication](C:\Users\osommers\OneDrive - Trintech Inc\Desktop\DataLab _ AI-powered data notebook for all skill levels.pdf)
 
 Analyzed a database containg four tables relate to video game creation usage, and reviews over a 20 year period to discover insights in the industry using **SQL**. 
+### Analyzing International Debt
+https://www.datacamp.com/datalab/new?accountType=personal&_tag=workspace&workspaceId=bd61953e-8a89-4676-a410-b878f1eca0b7&title=Project%3A%20Analyze%20International%20Debt%20Statistics%20%28copy%29&utmContent=copy_duplicate_link&utmMedium=in_product&utmSource=workspace&viewMode=edit&visibility=private
 
 
 
