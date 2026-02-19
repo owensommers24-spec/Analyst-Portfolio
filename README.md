@@ -1,9 +1,17 @@
 # Business Analyst
 
+### Technical Skills: SQL, DAX, Data Visualization
+
 ### Education
+- B.S Marketing Reasearch and Analytics | Oklahoma State University (_May 2024_)
 
 ### Work Experience
--
--
+**Business Intellience Analyst I @ Trintech (_November 2024 - Present_)**
+- Serve as Power BI Administrator, managing workspace governance, role-level security (RLS), data refresh schedules, dataset optimization, and deployment pipelines to ensure secure, scalable, and reliable enterprise reporting.
+- Design, develop, and maintain 20+ interactive dashboards annually, building robust data models using DAX, Power Query, and SQL to deliver real-time insights across bookings, pipeline performance, marketing ROI, recruiting metrics, and operational KPIs.
 
+**Marketing Analyst Intern @ Trintech (_June 2024 - October 2024_)**
+- Conducted market research and analysis to identify detailed customer personas, refining understanding of audience segments to enhance engagement and tailor marketing strategies effectively.
+- Developed, prepared and visualized data for analysis using Power BI, Salesforce, and Excel, leveraging insights to optimize digital advertising strategies and enhance campaign performance.
+  
 # Projects
