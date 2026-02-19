@@ -14,8 +14,8 @@ complex data into actionable insights that drive business performance.
 ## Technical Skills
 
 **Programming:** SQL, DAX  
-**Visualization:** Power BI, Excel  
-**Data Tools:** Power Query, Salesforce  
+**Visualization:** Power BI, Tableau, DOMO, Excel  
+**Data Tools:** Power Query, Salesforce, SEMRush  
 **Analytics:** Data Modeling, KPI Development, Market Analysis  
 
 ---
