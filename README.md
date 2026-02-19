@@ -18,9 +18,7 @@
 ### Golden Era of Video Games
 📄 [View Full Report](datalab-international-debt.pdf)
 
-Analyzed a database containg four tables relate to video game creation usage, and reviews over a 20 year period to discover insights in the industry using **SQL**. 
+
 ### Analyzing International Debt
-https://www.datacamp.com/datalab/new?accountType=personal&_tag=workspace&workspaceId=bd61953e-8a89-4676-a410-b878f1eca0b7&title=Project%3A%20Analyze%20International%20Debt%20Statistics%20%28copy%29&utmContent=copy_duplicate_link&utmMedium=in_product&utmSource=workspace&viewMode=edit&visibility=private
-
-
+📄 [View Full Report](datalab-video-games.pdf)
 
