@@ -85,8 +85,8 @@ Oklahoma State University *(May 2024)*
 
 ## Contact
 
-🔗 [LinkedIn](your-linkedin-url)  
-📧 your.email@email.com
+🔗 [LinkedIn](https://www.linkedin.com/in/owendsommers/)
+📧 owen.sommers24@gmail.com
 
 
 
