@@ -31,7 +31,9 @@ complex data into actionable insights that drive business performance.
 -  Data Literacy (Datacamp) [Certification](data-literacy-cert.pdf)
 
 # Data Visualization
+**Interal Example**
 [Dashboard Preview](HR-DATA-Reference.png)
+**External Example**
 [Dashboard Preview](SUPPORT-REF.png)
   
 # Projects
