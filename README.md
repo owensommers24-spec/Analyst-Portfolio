@@ -24,6 +24,10 @@ complex data into actionable insights that drive business performance.
 **Marketing Analyst Intern @ Trintech (_June 2024 - October 2024_)**
 - Conducted market research and analysis to identify detailed customer personas, refining understanding of audience segments to enhance engagement and tailor marketing strategies effectively.
 - Developed, prepared and visualized data for analysis using Power BI, Salesforce, and Excel, leveraging insights to optimize digital advertising strategies and enhance campaign performance.
+
+## Certifications
+-  SQL Associate (Datacamp)
+-  Data Analyst Associate (Datacamp)
   
 # Projects
 ### Analyzing International Debt
