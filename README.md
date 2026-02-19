@@ -1,6 +1,17 @@
 # Business Analyst
 
-### Technical Skills: SQL, DAX, Data Visualization
+## Professional Summary
+Business Intelligence Analyst with experience in Power BI administration, 
+data modeling, and dashboard development. Passionate about transforming 
+complex data into actionable insights that drive business performance.
+
+
+## Technical Skills
+**Programming:** SQL, DAX  
+**Visualization:** Power BI, Excel  
+**Data Tools:** Power Query, Salesforce  
+**Analytics:** Data Modeling, KPI Development, Market Analysis  
+
 
 ### Education
 - B.S Marketing Reasearch and Analytics | Oklahoma State University (_May 2024_)
@@ -15,10 +26,21 @@
 - Developed, prepared and visualized data for analysis using Power BI, Salesforce, and Excel, leveraging insights to optimize digital advertising strategies and enhance campaign performance.
   
 # Projects
-### Golden Era of Video Games
+### Analyzing International Debt
+**Tools:** SQL, Data Cleaning, Aggregation  
+**Objective:** Analyze trends in video game production, sales, and user reviews over 20 years.  
+**Key Insights:**
+- Identified peak release years
+- Determined top-performing genres
+- Analyzed correlation between review scores and sales
 📄 [View Full Report](datalab-international-debt.pdf)
 
 
-### Analyzing International Debt
+### Golden Era of video Games
 📄 [View Full Report](datalab-video-games.pdf)
+
+## Contact
+LinkedIn:[(https://www.linkedin.com/in/owendsommers/)] 
+Email: owen.sommers24@gmail.com
+
 
