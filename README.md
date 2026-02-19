@@ -33,7 +33,7 @@ complex data into actionable insights that drive business performance.
 - Identified peak release years
 - Determined top-performing genres
 - Analyzed correlation between review scores and sales
-📄 [View Full Report](datalab-international-debt.pdf)
+-📄 [View Full Report](datalab-international-debt.pdf)
 
 
 ### Golden Era of video Games
