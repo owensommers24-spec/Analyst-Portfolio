@@ -18,3 +18,7 @@
 ### Golden Era of Video Games
 [Publication](https://www.datacamp.com/datalab/new?accountType=personal&_tag=workspace&workspaceId=5db220e6-ed13-43a8-9424-83e872ad8c62&title=Project%3A%20When%20Was%20the%20Golden%20Era%20of%20Video%20Games%3F%20%28copy%29&utmContent=copy_duplicate_link&utmMedium=in_product&utmSource=workspace&viewMode=edit&visibility=private)
 
+Analyzed a database containg four tables relate to video game creation usage, and reviews over a 20 year period to discover insights in the industry using **SQL**. 
+
+
+
