@@ -26,8 +26,9 @@ complex data into actionable insights that drive business performance.
 - Developed, prepared and visualized data for analysis using Power BI, Salesforce, and Excel, leveraging insights to optimize digital advertising strategies and enhance campaign performance.
 
 ## Certifications
--  SQL Associate (Datacamp)
--  Data Analyst Associate (Datacamp)
+-  SQL Associate (Datacamp) [Certification](SQL-Cert.pdf)
+-  Data Analyst Associate (Datacamp) [Certification](Data-Analyst-Associate.pdf)
+-  Data Literacy (Datacamp) [Certification](data-literacy-cert.pdf)
   
 # Projects
 ### Analyzing International Debt
