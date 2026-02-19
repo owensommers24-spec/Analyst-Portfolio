@@ -23,6 +23,8 @@ complex data into actionable insights that drive business performance.
 ## Education
 
 **B.S. Marketing Research and Analytics**  
+
+
 Oklahoma State University *(May 2024)*  
 
 ---
