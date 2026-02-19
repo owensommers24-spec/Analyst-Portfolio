@@ -1,60 +1,90 @@
-# Business Analyst
+# Owen Sommers  
+### Business Intelligence Analyst
+
+---
 
 ## Professional Summary
+
 Business Intelligence Analyst with experience in Power BI administration, 
 data modeling, and dashboard development. Passionate about transforming 
 complex data into actionable insights that drive business performance.
 
+---
 
 ## Technical Skills
+
 **Programming:** SQL, DAX  
 **Visualization:** Power BI, Excel  
 **Data Tools:** Power Query, Salesforce  
 **Analytics:** Data Modeling, KPI Development, Market Analysis  
 
+---
 
-### Education
-- B.S Marketing Reasearch and Analytics | Oklahoma State University (_May 2024_)
+## Education
 
-### Work Experience
-**Business Intellience Analyst I @ Trintech (_November 2024 - Present_)**
-- Serve as Power BI Administrator, managing workspace governance, role-level security (RLS), data refresh schedules, dataset optimization, and deployment pipelines to ensure secure, scalable, and reliable enterprise reporting.
-- Design, develop, and maintain 20+ interactive dashboards annually, building robust data models using DAX, Power Query, and SQL to deliver real-time insights across bookings, pipeline performance, marketing ROI, recruiting metrics, and operational KPIs.
+**B.S. Marketing Research and Analytics**  
+Oklahoma State University *(May 2024)*  
 
-**Marketing Analyst Intern @ Trintech (_June 2024 - October 2024_)**
-- Conducted market research and analysis to identify detailed customer personas, refining understanding of audience segments to enhance engagement and tailor marketing strategies effectively.
-- Developed, prepared and visualized data for analysis using Power BI, Salesforce, and Excel, leveraging insights to optimize digital advertising strategies and enhance campaign performance.
+---
+
+## Work Experience
+
+### Business Intelligence Analyst I — Trintech  
+*November 2024 – Present*
+
+- Serve as Power BI Administrator managing governance, RLS, refresh schedules, and deployment pipelines.
+- Designed 20+ dashboards annually delivering insights across bookings, pipeline performance, marketing ROI, and recruiting KPIs.
+- Built scalable data models using SQL, DAX, and Power Query.
+
+### Marketing Analyst Intern — Trintech  
+*June 2024 – October 2024*
+
+- Conducted customer persona research to refine audience segmentation.
+- Developed Power BI dashboards to optimize digital advertising performance.
+
+---
 
 ## Certifications
--  SQL Associate (Datacamp) [Certification](SQL-Cert.pdf)
--  Data Analyst Associate (Datacamp) [Certification](Data-Analyst-Associate.pdf)
--  Data Literacy (Datacamp) [Certification](data-literacy-cert.pdf)
 
-# Data Visualization
-  
-# Projects
+- SQL Associate — DataCamp ([View Certificate](SQL-cert.pdf))
+- Data Analyst Associate — DataCamp ([View Certificate](Data-Analyst-Associate.pdf))
+- Data Literacy — DataCamp ([View Certificate](data-literacy-cert.pdf))
+
+---
+
+## Projects
+
 ### Analyzing International Debt
-**Tools:** SQL, Data Cleaning, Aggregation  
-**Objective:** Analyze overall debt based on the current economic conditions and reports worldwide.  
 
-**Key Insights:**
-- Identified countries with high debt
-- Determined countries with low repayments
+**Tools:** SQL, Data Cleaning, Aggregation  
+**Objective:** Analyze global debt trends and repayment patterns.
+
+**Key Insights**
+- Identified countries with highest debt levels
+- Determined countries with strongest repayment ratios
+
 📄 [View Full Report](datalab-international-debt.pdf)
 
+---
 
-### Golden Era of video Games
+### Golden Era of Video Games
+
 **Tools:** SQL, Data Cleaning, Aggregation  
-**Objective:** Analyze trends in video game production, sales, and user reviews over 20 years.  
+**Objective:** Analyze 20-year trends in production, sales, and user reviews.
 
-**Key Insights:**
-- Identified peak release years
-- Determined top-performing genres
-- Analyzed correlation between review scores and sales
+**Key Insights**
+- Identified peak release years  
+- Determined top-performing genres  
+- Analyzed correlation between review scores and sales  
+
 📄 [View Full Report](datalab-video-games.pdf)
 
+---
+
 ## Contact
-[LinkedIn](https://www.linkedin.com/in/owendsommers/) 
-[Email](owen.sommers24@gmail.com)
+
+🔗 [LinkedIn](your-linkedin-url)  
+📧 your.email@email.com
+
 
 
