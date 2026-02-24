@@ -61,7 +61,7 @@ Oklahoma State University *(May 2024)*
 ---
 
 ## Portfolio Work
-(PBI Example 1.png)
+📄 [View Example](PBI-Example-1.png)
 
 ---
 
