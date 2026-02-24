@@ -44,6 +44,12 @@ Oklahoma State University *(May 2024)*
 - Conducted customer persona research to refine audience segmentation.
 - Developed Power BI dashboards to optimize digital advertising performance.
 
+### Marketing Analyst Intern - Gloo
+*May 2022 - August 2022*
+
+- Developed and crafted internal analytical dashboards tailored for advertising campaigns, enhancing the visualization of key performance indicators such as engagements, leads, and conversions.
+- Regularly communicated the progress of advertising campaigns and presented findings from dashboards, facilitating informed decision-making and promoting necessary adjustments for optimal performance.
+
 ---
 
 ## Certifications
