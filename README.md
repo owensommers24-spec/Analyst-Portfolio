@@ -31,8 +31,15 @@ Oklahoma State University *(May 2024)*
 
 ## Work Experience
 
+### Business Intelligence Analyst II — Trintech  
+*April 2026 - Present*
+
+- Serve as Power BI Administrator, managing workspace governance, role-level security (RLS), data refresh schedules, dataset optimization, and deployment pipelines to ensure secure, scalable, and reliable enterprise reporting.
+- Serve as Microsoft Fabric Administrator, architecting and maintaining lakehouse-based data warehouses and Dataflows Gen2 pipelines to ingest, transform, and model data from disparate source systems; write and optimize T-SQL queries, views, and stored procedures within Fabric warehouses to structure curated, analysis-ready datasets that support enterprise-wide reporting and downstream Power BI semantic models.
+- Manage contact and account list imports in RingLead and leverage AI tools to automate data transformation and visualization workflows, increasing reporting speed and accuracy across the GTM organization.
+  
 ### Business Intelligence Analyst I — Trintech  
-*November 2024 – Present*
+*November 2024 – April 2026*
 
 - Serve as Power BI Administrator managing governance, RLS, refresh schedules, and deployment pipelines.
 - Designed 20+ dashboards annually delivering insights across bookings, pipeline performance, marketing ROI, and recruiting KPIs.
@@ -43,12 +50,6 @@ Oklahoma State University *(May 2024)*
 
 - Conducted customer persona research to refine audience segmentation.
 - Developed Power BI dashboards to optimize digital advertising performance.
-
-### Marketing Analyst Intern - Gloo
-*May 2022 - August 2022*
-
-- Developed and crafted internal analytical dashboards tailored for advertising campaigns, enhancing the visualization of key performance indicators such as engagements, leads, and conversions.
-- Regularly communicated the progress of advertising campaigns and presented findings from dashboards, facilitating informed decision-making and promoting necessary adjustments for optimal performance.
 
 ---
 
