@@ -5,17 +5,17 @@
 
 ## Professional Summary
 
-Business Intelligence Analyst with experience in Power BI administration, 
-data modeling, and dashboard development. Passionate about transforming 
+Business Intelligence Analyst with experience in Power BI administration, Data Warehousing,
+Microsoft Fabric, data modeling, and dashboard development. Passionate about transforming 
 complex data into actionable insights that drive business performance.
 
 ---
 
 ## Technical Skills
 
-**Programming:** SQL, DAX  
+**Programming:** Warehousing, SQL, DAX  
 **Visualization:** Power BI, Tableau, DOMO, Excel  
-**Data Tools:** Power Query, Salesforce, SEMRush  
+**Data Tools:** Power Query, Salesforce, SEMRush, RingLead  
 **Analytics:** Data Modeling, KPI Development, Market Analysis  
 
 ---
@@ -58,11 +58,6 @@ Oklahoma State University *(May 2024)*
 - SQL Associate — DataCamp ([View Certificate](SQL-cert.pdf))
 - Data Analyst Associate — DataCamp ([View Certificate](Data-Analyst-Associate.pdf))
 - Data Literacy — DataCamp ([View Certificate](data-literacy-cert.pdf))
-
----
-
-## Portfolio Work
-📄 [View Example](PBI-Example-1.png)
 
 ---
 
